@@ -14,4 +14,4 @@ buka terminal baru, sourcing, terus
 
 ros2 run barcode_hmi live_backend --ros-args -p camera1_device:=2 -p camera2_device:=4
 
-**2 ama 4 sesuaiin ama alamat si webcam
+**2 ama 4 sesuaiin ama alamat si webcam yoii
